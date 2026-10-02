@@ -1,20 +1,29 @@
 ## Hi there! It's Mayank 👋
 <div align="center">
+
+  <!-- Sleek Banner / Title -->
+  <h1 align="center"> I'm a Data & AI Professional 🚀</h1>
   
-  <!-- Animated Typing Banner (Cycles through your specialties) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&height=600&lines=Hi+there%2C+I'm+a+Data+%26+AI+Professional+🚀;Data+Analyst+&+Data+Scientist+📊;Data+Engineer+&+Cloud+Architect+⚡;AI%2C+LLM+%26+RAG+Specialist+🤖;Full-Stack+Web+Developer+💻" alt="Typing SVG" />
+  <p align="center">
+    <strong>Data Analysis • Data Science • Data Engineering • RAG/LLMs • Full-Stack Web • DevOps & Cloud</strong>
+  </p>
 
-  <!-- Subtitle Quote / Tagline -->
-  <p><em>"Transforming complex data into intelligent systems and impactful insights."</em></p>
+  <p align="center">
+    <em>"Transforming raw data into intelligent systems and impactful insights."</em>
+  </p>
 
-  <!-- Visitor Counter, Followers & Follow Button Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=visualstudio" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=2ea44f&logo=github" alt="GitHub Followers" />
-    <a href="https://github.com/YOUR-USERNAME?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow"></a>
+  <!-- Clean Visitor & Follower Counters -->
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
+    <img src="https://img.shields.io/github/followers/YOUR-USERNAME?color=blue&label=Followers&logo=github&style=flat-square" alt="GitHub Followers" />
+    <a href="https://github.com/YOUR-USERNAME?tab=followers">
+      <img src="https://img.shields.io/badge/Follow%20Me-181717?style=flat-square&logo=github&logoColor=white" alt="Follow Badge" />
+    </a>
   </p>
 
 </div>
+
+---
 
 ---
 <h1 align="center"> I'm a Data & AI Professional 🚀</h1>
