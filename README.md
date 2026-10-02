@@ -1,33 +1,15 @@
 ## Hi there! It's Mayank 👋
-<div align="center">
 
-  <!-- Sleek Banner / Title -->
-  <h1 align="center"> I'm a Data & AI Professional 🚀</h1>
-  
-  <p align="center">
+---
+<h1 align="center"> I'm a Data & AI Professional 🚀</h1>
+
+<p align="center">
     <strong>Data Analysis • Data Science • Data Engineering • RAG/LLMs • Full-Stack Web • DevOps & Cloud</strong>
   </p>
 
   <p align="center">
     <em>"Transforming raw data into intelligent systems and impactful insights."</em>
   </p>
-
-  <!-- Clean Visitor & Follower Counters -->
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
-    <img src="https://img.shields.io/github/followers/YOUR-USERNAME?color=blue&label=Followers&logo=github&style=flat-square" alt="GitHub Followers" />
-    <a href="https://github.com/YOUR-USERNAME?tab=followers">
-      <img src="https://img.shields.io/badge/Follow%20Me-181717?style=flat-square&logo=github&logoColor=white" alt="Follow Badge" />
-    </a>
-  </p>
-
-</div>
-
----
-
----
-<h1 align="center"> I'm a Data & AI Professional 🚀</h1>
-
 <!-- Profile View Counters -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
