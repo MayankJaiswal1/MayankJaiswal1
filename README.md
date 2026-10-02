@@ -1,174 +1,102 @@
 ## Hi there! It's Mayank 👋
 
-## 👨‍💻 About Me
-I am a data-driven and business-oriented professional with a strong interest in transforming raw data into meaningful insights that support informed decision-making.
+<h1 align="center"> I'm a Data & AI Professional 🚀</h1>
 
-I enjoy working across the data lifecycle — from understanding business requirements and cleaning datasets to analyzing data and presenting insights through clear dashboards and reports. My approach combines analytical thinking with business context to deliver impact-driven outcomes.
-
-I am continuously upskilling in **AI/ML and Generative AI**, exploring how intelligent systems can enhance analytics, automation, and decision support.
+<!-- Profile View Counters -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=flat&color=success" alt="GitHub Followers" />
+  <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" alt="GitHub Follow"></a>
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 👨‍💻 About Me
 
-**Data Analytics:**  
-- Excel (Advanced)  
-- SQL (Joins, Subqueries, Aggregations)  
-- Python (Pandas, NumPy, Matplotlib, Scikit-Learn, NLTK, Seaborn)  
-- Power BI | Tableau  
-- Data Cleaning & EDA  
-- Dashboarding & Reporting  
- 
-**Programming & Development:**  
-- Java  
-- Web Development (HTML, CSS, JavaScript)  
+I am a versatile, data-driven professional passionate about building intelligent systems across the **entire data, AI, and web lifecycle**. 
 
-**Concepts:**  
-- Business Analytics  
-- KPI Analysis  
-- Data Visualization  
-- Problem Solving  
-- Data Storytelling  
+* **Data & Analytics:** Turning raw, messy data into actionable insights through rigorous exploratory data analysis, robust SQL queries, and interactive BI dashboards.
+* **Data Science & Engineering:** Designing scalable pipelines, processing big data sets, and deploying machine learning models into production.
+* **AI, LLMs & RAG:** Architecting Generative AI applications utilizing Retrieval-Augmented Generation (RAG), vector databases, and modern LLM frameworks.
+* **Web Development & DevOps/Cloud:** Building responsive full-stack applications and deploying containerized, cloud-native infrastructure.
 
-## 🎯 Technical Skills & Tools
+🌱 I am continuously learning and exploring cutting-edge developments in AI-driven automation, distributed systems, and intelligent agent workflows.
 
-<!-- ## 📊 Data Analysis & Business Intelligence -->
+---
+
+## 🛠️ Comprehensive Tech Stack
+
+### 📊 Data Analysis & Business Intelligence
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-<!-- ## 🐍 Python Libraries for Data Analysis -->
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🔬 Data Science, Machine Learning & MLOps
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-<!--  ## 🗄️ Databases -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-<!-- ## ☁️ Big Data & Cloud Platforms -->
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-<!-- ## 📝 Documentation & Presentation Tools -->
-![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=flat&logo=googledocs&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google%20Slides-FBBC04?style=flat&logo=googleslides&logoColor=white)
-
-<!-- ## 🤖 AI & Machine Learning -->
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-
-<!-- ## 🤖 AI Tools & Assistants -->
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat&logo=midjourney&logoColor=white)
-![DALL-E](https://img.shields.io/badge/DALL--E-412991?style=flat&logo=openai&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-4E54E1?style=flat&logo=stablediffusion&logoColor=white)
-
-<!-- ## 🔧 Development Tools & IDEs -->
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-<!-- ## 💼 Collaboration & Productivity -->
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)
-
-<!-- ## 🌐 Web Development -->
- 
-<!-- ### Frontend -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-<!-- ### CSS Frameworks -->
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-
-<!-- ### Backend -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
-
-<!-- ### Build Tools & Package Managers -->
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-
-<!-- ### Testing & API Tools -->
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-<!-- ### Deployment & Hosting -->
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-<!-- ### Web Servers -->
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-
-<!-- ## 🔬 MLOps & Data Science Platforms -->
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
-<!-- ## 💻 Additional IDEs -->
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+### 🤖 AI, LLMs & RAG (Generative AI)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+
+### ⚙️ Data Engineering, Databases & Big Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+### 🌐 Web Development & Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 📂 Featured Work
+## 📂 Core Focus Areas & Projects
 
-📌 Data Analysis & Visualization Projects  
-📌 SQL Query Optimization & Case Studies  
-📌 Python EDA & Automation Scripts  
-📌 Academic & Research-Based Projects  
+- 📈 **Data Analysis & Dashboards:** Building Power BI and Tableau dashboards backed by optimized SQL models.
+- ⚡ **Data Engineering & Pipelines:** Creating robust data flows with Spark, Databricks, and Cloud storage.
+- 🤖 **GenAI & RAG Applications:** Developing contextual search engines and Q&A chatbots utilizing vector search, LangChain, and LLMs.
+- 💻 **Full-Stack Web Engineering:** Developing scalable applications with modern JavaScript/TypeScript frameworks and containerized backends.
 
+---
 
-## 🎯 Interests
+## 📊 GitHub Analytics & Metrics
 
-- Data Analytics & Business Intelligence  
-- AI/ML & Generative AI  
-- Predictive Analytics  
-- Data-Driven Strategy  
-- Continuous Learning & Research  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -177,8 +105,7 @@ I am continuously upskilling in **AI/ML and Generative AI**, exploring how intel
 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank154/) 
 <!-- 📧 Email: [mayankjaiswal1547@gmail.com]  -->
 
-I’m always open to collaboration, learning opportunities, and data-driven discussions.  
-Let’s build insights that create impact 📊✨
+*I’m always open to collaboration, tech discussions, and impactful data/AI projects. Let’s build someth
 
 <!--
 **MayankJaiswal1/MayankJaiswal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
