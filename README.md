@@ -113,7 +113,7 @@ I am a versatile, data-driven professional passionate about building intelligent
 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank154/) 
 <!-- 📧 Email: [mayankjaiswal1547@gmail.com]  -->
 
-*I’m always open to collaboration, tech discussions, and impactful data/AI projects. Let’s build someth
+I’m always open to collaboration, tech discussions, and impactful data/AI projects. Let’s build something. 
 
 <!--
 **MayankJaiswal1/MayankJaiswal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
